@@ -1,0 +1,8 @@
+{
+  FirstName: {
+    type: "string",
+    title: "First name",
+    required: "true",
+    maxLength: 15
+  }
+}
